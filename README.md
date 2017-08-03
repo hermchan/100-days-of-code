@@ -1,24 +1,13 @@
-# I've joined the #100DaysOfCode Challenge.
+# I've joined the #100DaysOfCode Challenge!!!
 
-## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
-* [Resources](resources.md)
+# 100 Days Of Code - Log
 
-## If you've decided to join:
-0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
-1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2. Fork this repo and commit to the [Log](log.md) or to the Alternative, rapid [R1 Log](r1-log.md) (R1 stands for Round 1) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
-3. **Code minimum an hour every day for the next 100 days.**
-4. **Encourage at least two other people in the challenge on Twitter every day! Pay it forward!**
-5. Change the date in [Rules](rules.md) to the day you've started the challenge.
-6. Delete the examples in the log, or comment them out, and start filling it with your own content.
-7. **Tweet your progress every day using the #100DaysOfCode hashtag.**
-8. Follow [100DaysOfCode](https://twitter.com/_100DaysOfCode) Twitter Bot that retweets the tweets that contain the #100DaysOfCode hashtag. It's a great way to keep yourself motivated and to participate in the community. Thanks [@amanhimself](https://twitter.com/amanhimself) for creating it!
-9. Important: (see No.4 above for a specific rule on this) Encourage others who are doing the same challenge on Twitter or elsewhere - by giving them props when they are posting updates on their progress, supporting them when things get difficult. Thus we will grow a community that is helpful and effective, which will lead to a higher success rate for each person involved. It's also more likely that you will stick to your own commitment, given that you will get acquainted with a couple people (or more) right away.
-10. If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
+### Day 0: August 03, 2017, Thursday
 
-## Note
-* If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to me on Twitter: [@ka11away](https://twitter.com/ka11away)
-* If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
+**Today's Progress**: I've decided to fork [this repo](https://github.com/Kallaway/100-days-of-code) and participate in the [#100DaysOfCode](http://100daysofcode.com/) Challenge. I've been coding here and there for the past 2-3 months from building random templates to working on my personal portfolio but never committed to Github. This will encourage me to keep track of all my work that I do, even if its a small HTML/CSS error :smiley:
+
+Today, I will catch up on all the [FreeCodeCamp](https://www.freecodecamp.com) Challenges that I've already done and commit them [here](https://github.com/hermchan/my-freecodecamp).
+
+**Thoughts:** I'm excited to start this journey! Though, I should have done this a long time ago, but better late than never :satisfied:
+
+**Link to work:** [My FreeCodeCamp Repo](https://github.com/hermchan/my-freecodecamp)

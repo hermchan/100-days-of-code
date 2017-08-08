@@ -17,8 +17,18 @@ Today, I will catch up on all the [FreeCodeCamp](https://www.freecodecamp.com) C
 
 **Today's Progress**: I've committed all my updated progress on [My FreeCodeCamp Repo](https://github.com/hermchan/my-freecodecamp)
 
-**Thoughts:** Was pretty busy today and only had 1-2 hours of coding, but able to complete 2 FreeCodeCamp Challenges and  pretty happy I was able to keep my FreeCodeCamp github up to date. 
+**Thoughts:** Was pretty busy today and only had 1-2 hours of coding, but able to complete 2 FreeCodeCamp Challenges and  pretty happy I was able to keep my FreeCodeCamp github up to date.
 
 **Link to work:**
 [DNA](https://www.freecodecamp.com/challenges/dna-pairing)
 [Missing Letters](https://www.freecodecamp.com/challenges/missing-letters)
+
+### Day 3: August 07, 2017, Monday
+
+**Today's Progress**: Today, I've worked on FreeCodeCamp's Intermediate Algorithms 09-13 for about 2-3 hours today. I got stuck on [Sum All Fibonacci Number](https://www.freecodecamp.com/challenges/sum-all-odd-fibonacci-numbers) and RegEx majority of the day.
+
+**Link to work:**
+[Boo who](https://www.freecodecamp.com/challenges/boo-who)
+[Sorted Union](https://www.freecodecamp.com/challenges/sorted-union)
+[RegEx](https://www.freecodecamp.com/challenges/convert-html-entities)
+[Spinal Tap Case](https://www.freecodecamp.com/challenges/spinal-tap-case)
